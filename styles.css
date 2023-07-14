@@ -6,7 +6,7 @@
 }
 
 .hero__section {
-    background: url(/images/heroSectionBackground.png);
+    background: url(images/heroSectionBackground.png);
     color: white;
     height: 60vh;
 }
